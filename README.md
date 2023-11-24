@@ -10,6 +10,7 @@
 ## Sobre mim! 🙋🏽‍♀️
 <p align="center">
     Olá, tudo bem? Sou a Luchecy Ribeiro, apaixonada por tecnologia, dedicada a transformar ideias em soluções inovadoras para impactar positivamente a vida das pessoas. <br>
+    Se você se interessa por tecnologia, projetos inovadores ou apenas quer bater um papo, fique à vontade para explorar meu perfil ou entrar em contato! 😊<br>
 </p><br>
 
 <div align="center">    
@@ -41,8 +42,9 @@
 
 ## Aprendendo:
 <div style="display: inline_block">
-    👩🏽‍💻 Atualmente estou dedicada aos estudos de: <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  />
-</div></br>
+    👩🏽‍💻 Atualmente estou dedicada aos estudos de: <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  /><br>
+    Estou explorando os fundamentos da linguagem e trabalhando em pequenos projetos para aplicar meus conhecimentos.
+</div>
 
 ## Vamos nos conectar e conversar!
 <div style="display: inline_block">
