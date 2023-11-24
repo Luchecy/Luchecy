@@ -40,7 +40,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"  />
 </div></br>
 
-## Aprendendo:
+## Em constante aprendizado:
 <div style="display: inline_block">
     👩🏽‍💻 Atualmente estou dedicada aos estudos de: <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  /><br>
     Estou explorando os fundamentos da linguagem e trabalhando em pequenos projetos para aplicar meus conhecimentos.
