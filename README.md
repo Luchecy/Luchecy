@@ -17,8 +17,10 @@
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/luchecy)
 [![Portifolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://t.me/luchecy)
 
-![Luchecy GitHub stats](https://github-readme-stats.vercel.app/api?username=luchecy&show_icons=true&theme=dracula&locale=pt-br)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luchecy&layout=compact&locale=pt-br)](https://github.com/luchecy/github-readme-stats)
+<img width="44%" src="https://github-readme-stats.vercel.app/api?username=luchecy&show_icons=true&theme=dracula&locale=pt-br" alt="Luchecy GitHub stats">
+<img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchecy&layout=compact&locale=pt-br" alt="Top Langs">
+
+
 
 ## Tecnologias que uso no meu dia - Languages-Frameworks-Tools
 
