@@ -21,7 +21,7 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"  />
 </div></br>
 
-Apaixonada por tecnologia e busco transformar ideias em soluções inovadoras que fazem a diferença.
+- Apaixonada por tecnologia e busco transformar ideias em soluções inovadoras que fazem a diferença.
 
 ## Estudando:
 
