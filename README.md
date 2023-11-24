@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=C8A2C8&&center=true&vCenter=true&random=false&width=435&lines=%E2%AD%90+Welcome+to+my+profile!;%E2%AD%90+I'm+Luchecy+♥)](https://git.io/typing-svg)
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=C8A2C8&size=35&center=true&vCenter=true&width=1000&lines=Hello,+My+name+is+Luchecy;I'm+24+years+old;I+from+Brasil,+PE;I+study+information+systems+at+UFRPE;+Welcome!+:%29)](https://git.io/typing-svg)
+
 <div>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C8A2C8&height=120&section=header" style="background: linear-gradient(to right, #C8A2C8, #fff);">
@@ -46,4 +48,4 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=luchecy&label=Profile%20views&color=0e75b6&style=flat" alt="ashutosh-pmishra" /> </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C8A2C8&height=120&section=header" style="background: linear-gradient(to right, #C8A2C8, #fff);">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=C8A2C8&height=120&section=footer" style="background: linear-gradient(to right, #C8A2C8, #fff);">
