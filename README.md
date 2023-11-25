@@ -4,9 +4,16 @@
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C8A2C8&height=120&section=header" style="background: linear-gradient(to right, #C8A2C8, #fff);">
-
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C8A2C8&height=120&section=header" style="background: linear-gradient(to right, #C8A2C8, #fff);">    
+</div>
+    
 ## Sobre mim! 🙋🏽‍♀️
+
+<div align="center">
+    <img src="https://github.com/Luchecy/Luchecy/assets/121204669/3dc999e6-c569-4d00-8aa8-d554b644ee99" width="300px" style="min-width: 100px; max-width: 400px;">
+</div>
+
 <p align="center">
     Olá, tudo bem? Sou a Luchecy Ribeiro, apaixonada por tecnologia, dedicada a transformar ideias em soluções inovadoras para impactar positivamente a vida das pessoas. <br>
     Se você se interessa por tecnologia, projetos inovadores ou apenas quer bater um papo, fique à vontade para explorar meu perfil ou entrar em contato! 😊<br>
@@ -18,8 +25,9 @@
 </div>
 
 ## Minhas Habilidades:
-<div>
-* Languagens:
+
+* Linguagens:
+    
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
     <img align="center" alt="html5" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"  />
@@ -38,9 +46,6 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"  />
     <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"  />
 </div></br>
-
-<img src="https://github.com/Luchecy/Luchecy/assets/121204669/4f810465-cf97-4779-ad8b-10f07a131cce" alt="3189802" width="300px" style="min-width: 300px; max-width: 400px;" align="right">
-</div>
 
 ## Em constante aprendizado:
 <div style="display: inline_block">
