@@ -1,6 +1,5 @@
 <div align="center">
 
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?color=C8A2C8&size=28&center=true&vCenter=true&random=false&width=800&lines=%E2%AD%90+É+um+prazer+ter+você+aqui!;%E2%AD%90+Eu+sou+Luchecy+♥;%E2%AD%90+Estudo+Sistemas+da+Informação+-+UFRPE)](https://git.io/typing-svg)
 
 </div>
@@ -19,7 +18,7 @@
 </div>
 
 ## Minhas Habilidades:
-
+<div>
 * Languagens:
 <div style="display: inline_block">
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"  />
@@ -40,6 +39,9 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"  />
 </div></br>
 
+<img src="https://github.com/Luchecy/Luchecy/assets/121204669/4f810465-cf97-4779-ad8b-10f07a131cce" alt="3189802" width="300px" style="min-width: 300px; max-width: 400px;" align="right">
+</div>
+
 ## Em constante aprendizado:
 <div style="display: inline_block">
     👩🏽‍💻 Atualmente estou dedicada aos estudos de: <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  /><br>
@@ -47,17 +49,17 @@
 </div>
 
 ## Vamos nos conectar e conversar!
+
 <div style="display: inline_block">
 
 <p>
 Você pode entrar em contato comigo em:
 </p>
 
-<a href="https://www.linkedin.com/in/luchecyribeiro/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="luchecy.ribeiro@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"></a>
-<a href="https://t.me/luchecy" target="_blank"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
-<a href="https://luchecy.github.io/ProjetoFinalElasNaTech/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139" alt="Portfolio"></a>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luchecyribeiro/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luchecy.ribeiro@gmail.com)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/luchecy)
+[![Portifolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://luchecy.github.io/ProjetoFinalElasNaTech/)
     
 </div>
 
