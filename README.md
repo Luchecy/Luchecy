@@ -60,6 +60,23 @@ Se você se interessa por tecnologia, projetos inovadores ou apenas quer bater u
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](luchecy.ribeiro@gmail.com)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/luchecy)
 [![Portifolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://luchecy.github.io/ProjetoFinalElasNaTech/)
+
+<p align="left">
+<a href="mailto:luchecy.ribeiro@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:sandypiropodev@gmail.com" />
+</a>
+
+<a href="https://www.linkedin.com/in/luchecyribeiro/" alt="LinkdIn">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/luchecyribeiro/"/>
+</a>
+
+<a href="https://t.me/luchecy" alt="Telegram">
+  <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://luchecy.github.io/ProjetoFinalElasNaTech/" alt="Portifolio">
+  <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139&link=https://luchecy.github.io/ProjetoFinalElasNaTech/"/>
+</a>
     
 </div>
 
