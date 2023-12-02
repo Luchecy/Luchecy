@@ -12,7 +12,6 @@
 
 <p align="center">
     Olá, tudo bem? Sou a Luchecy Ribeiro, estudante de sistemas da informação, apaixonada por tecnologia, dedicada a transformar ideias em soluções inovadoras para impactar positivamente a vida das pessoas. <br>
-    Se você se interessa por tecnologia, projetos inovadores ou apenas quer bater um papo, fique à vontade para explorar meu perfil ou entrar em contato! 😊<br>
 </p><br>
 
 <div align="center">    
@@ -54,7 +53,7 @@
 <div style="display: inline_block">
 
 <p>
-Você pode entrar em contato comigo em:
+Se você se interessa por tecnologia, projetos inovadores ou apenas quer bater um papo, fique à vontade para explorar meu perfil ou entrar em contato! 😊<br>
 </p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luchecyribeiro/)
