@@ -1,27 +1,29 @@
 <div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C8A2C8&height=120&section=header" style="background: linear-gradient(to right, #C8A2C8, #fff);">    
+</div>
+
+<div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?color=C8A2C8&size=28&center=true&vCenter=true&random=false&width=800&lines=%E2%AD%90+É+um+prazer+ter+você+aqui!;%E2%AD%90+Eu+sou+Luchecy+♥;%E2%AD%90+Estudo+Sistemas+da+Informação+-+UFRPE)](https://git.io/typing-svg)
 
 </div>
-
-<div align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=C8A2C8&height=120&section=header" style="background: linear-gradient(to right, #C8A2C8, #fff);">    
-</div>
     
-## Sobre mim! 🙋🏽‍♀️
-
-<div align="center">
-    <img src="https://github.com/Luchecy/Luchecy/assets/121204669/3dc999e6-c569-4d00-8aa8-d554b644ee99" width="300px" style="min-width: 100px; max-width: 400px;">
-</div>
+## Luchecy Ribeiro! 🙋🏽‍♀️
 
 <p align="center">
-    Olá, tudo bem? Sou a Luchecy Ribeiro, apaixonada por tecnologia, dedicada a transformar ideias em soluções inovadoras para impactar positivamente a vida das pessoas. <br>
+    Olá, tudo bem? Sou a Luchecy Ribeiro, estudante de sistemas da informação, apaixonada por tecnologia, dedicada a transformar ideias em soluções inovadoras para impactar positivamente a vida das pessoas. <br>
     Se você se interessa por tecnologia, projetos inovadores ou apenas quer bater um papo, fique à vontade para explorar meu perfil ou entrar em contato! 😊<br>
 </p><br>
 
 <div align="center">    
 <img width="44%" src="https://github-readme-stats.vercel.app/api?username=luchecy&show_icons=true&theme=dracula&locale=pt-br" alt="Luchecy GitHub stats">
 <img width="39%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luchecy&layout=compact&locale=pt-br" alt="Top Langs">
+</div>
+
+## Em constante aprendizado:
+<div style="display: inline_block">
+    👩🏽‍💻 Atualmente estou dedicada aos estudos de: <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  /><br>
+    Estou explorando os fundamentos da linguagem e trabalhando em pequenos projetos para aplicar meus conhecimentos.
 </div>
 
 ## Minhas Habilidades:
@@ -46,12 +48,6 @@
     <img align="center" alt="html5" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"  />
     <img align="center" alt="html5" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white"  />
 </div></br>
-
-## Em constante aprendizado:
-<div style="display: inline_block">
-    👩🏽‍💻 Atualmente estou dedicada aos estudos de: <img align="center" alt="html5" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"  /><br>
-    Estou explorando os fundamentos da linguagem e trabalhando em pequenos projetos para aplicar meus conhecimentos.
-</div>
 
 ## Vamos nos conectar e conversar!
 
